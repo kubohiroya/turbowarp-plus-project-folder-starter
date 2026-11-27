@@ -1,6 +1,6 @@
 {
   "name": "@kubohiroya/turbowarp-plus-project-folder-starter",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Create a Git repository with an sb3-toolchain project folder, checks and release workflows",
   "type": "module",
   "license": "MPL-2.0",
@@ -61,10 +61,10 @@
   "dependencies": {
     "@kubohiroya/sb3-toolchain": "0.31.1",
     "fflate": "0.8.3",
-    "isomorphic-git": "1.44.17"
+    "isomorphic-git": "1.44.19"
   },
   "devDependencies": {
-    "@types/node": "24.19.2",
+    "@types/node": "24.19.4",
     "typescript": "6.0.3",
     "yaml": "2.9.1"
   }
